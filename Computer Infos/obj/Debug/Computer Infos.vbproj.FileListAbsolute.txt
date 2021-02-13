@@ -1,0 +1,11 @@
+E:\projects-visualstudio\Computer Infos\Computer Infos\bin\Debug\Computer Infos.exe.config
+E:\projects-visualstudio\Computer Infos\Computer Infos\bin\Debug\Computer Infos.exe
+E:\projects-visualstudio\Computer Infos\Computer Infos\bin\Debug\Computer Infos.pdb
+E:\projects-visualstudio\Computer Infos\Computer Infos\bin\Debug\Computer Infos.xml
+E:\projects-visualstudio\Computer Infos\Computer Infos\obj\Debug\Computer Infos.vbprojResolveAssemblyReference.cache
+E:\projects-visualstudio\Computer Infos\Computer Infos\obj\Debug\Computer_Infos.Form1.resources
+E:\projects-visualstudio\Computer Infos\Computer Infos\obj\Debug\Computer_Infos.Resources.resources
+E:\projects-visualstudio\Computer Infos\Computer Infos\obj\Debug\Computer Infos.vbproj.GenerateResource.Cache
+E:\projects-visualstudio\Computer Infos\Computer Infos\obj\Debug\Computer Infos.exe
+E:\projects-visualstudio\Computer Infos\Computer Infos\obj\Debug\Computer Infos.xml
+E:\projects-visualstudio\Computer Infos\Computer Infos\obj\Debug\Computer Infos.pdb
